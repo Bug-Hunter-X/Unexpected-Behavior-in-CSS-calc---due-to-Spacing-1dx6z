@@ -1,0 +1,8 @@
+The corrected CSS code with no spaces around the `+` operator in the `calc()` function:
+
+```css
+.element {
+  width: calc(100px + 50%); /* Correct */
+}
+```
+This will ensure that the calculation is performed correctly in all browsers.
